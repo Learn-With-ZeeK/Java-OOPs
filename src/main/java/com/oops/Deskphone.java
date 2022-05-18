@@ -1,6 +1,6 @@
 package com.oops;
 
-public class Deskphone implements Telephone {
+ public class Deskphone implements Telephone {
 	
 	private String myNumber;
 	private boolean isRinging;
