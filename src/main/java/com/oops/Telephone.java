@@ -6,7 +6,7 @@ public interface Telephone {
 	//dial a number
 	//answer phone call
 	//call another phone 
-	//is ringing
+	 //is ringing
 	
 	void powerOn();
 	void dial(String phoneNo);
